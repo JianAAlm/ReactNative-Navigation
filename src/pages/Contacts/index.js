@@ -31,7 +31,7 @@ export default function Contacts({navigation}) {
             endereco:'Rua 20',
             num:'150 ',
             profissao:'Investigador', 
-            email:'john@invertigador.com', 
+            email:'john@investigador.com', 
           })}
           >Information...</Text> 
         </View>
